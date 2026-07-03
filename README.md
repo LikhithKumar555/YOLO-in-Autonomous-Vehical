@@ -117,8 +117,7 @@ The system successfully detects:
 - Traffic signs
 - Various obstacles
 
-## Project Report
-For detailed methodology, literature review, and findings, refer to the [project report](Autonomous%20Vehicles%20Using%20YOLO%20Object%20Detection.pdf).
+
 
 ## Future Work
 - Integration with vehicle control systems
