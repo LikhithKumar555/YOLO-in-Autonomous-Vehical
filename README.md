@@ -127,11 +127,6 @@ For detailed methodology, literature review, and findings, refer to the [project
 - Edge device optimization for embedded systems
 - Expansion to 3D object detection
 
-## Acknowledgments
-- **Anurva Advanced Techserve Pvt Ltd** for project opportunity and guidance
-- **Apoorva Arun Kumar** for mentorship and support
-- **Joseph Redmon and Ali Farhadi** for YOLO algorithm development
-- **OpenCV team** for computer vision tools
 
 ## References
 1. Redmon, J., et al. (2016). "You Only Look Once: Unified, Real-Time Object Detection"
